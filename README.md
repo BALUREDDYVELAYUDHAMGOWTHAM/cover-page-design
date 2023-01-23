@@ -145,11 +145,11 @@ cover.html
 
 ## Output:
 
-![images](images/coverme.png)
+![image](images/coverme.png)
 
 ## HTML validator
 
-![images](images/htmlcover.png)
+![image](images/htmlcover.png)
 
 
 ## Result:
